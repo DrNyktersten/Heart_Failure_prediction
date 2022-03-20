@@ -14,3 +14,7 @@ If you want to run this program you can do so using:
 1) In order to make any changes you first need to download .csv file into your local disk (C). 
 
 2) Open up your Jupyter notebook and you are ready to make any further research on these dataset. 
+
+# Video with explanation of steps:
+
+https://www.youtube.com/watch?v=Lk-WiTTfkQQ
